@@ -112,6 +112,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/desktop/bootcamp/git" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/bootcamp/git/ng4-meow-demo" />
   </component>
 </application>
