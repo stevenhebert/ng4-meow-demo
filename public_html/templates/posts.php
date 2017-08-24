@@ -42,7 +42,7 @@
 						<!-- Begin Post Item -->
 						<div class="panel panel-default">
 							<div class="panel-heading">
-								<div class="h4">Post Title <small>// post date</small></div>
+								<div class="h4">{{ post.postTitle }} <small>// {{post.postDate | Date}}</small></div>
 							</div>
 							<div class="panel-body">
 								This is the post content
