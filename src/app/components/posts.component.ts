@@ -3,14 +3,23 @@ import {ActivatedRoute, Params} from "@angular/router";
 import {Observable} from "rxjs";
 import {PostService} from "../services/post-service";
 import {Post} from "../classes/post";
-import construct = Reflect.construct;
 
 @Component({
 	templateUrl: "./templates/posts.php"
 })
 
-export class PostsComponent {}
+export class PostsComponent implements OnInit {
 
-posts : Post[] = [];
+	posts : Post[] = [];
 
-constructor(protected postService : post-service)
+	constructor(protected postService: PostService) {}
+
+	ngOnInit() : void {
+		this.getAllPosts();
+	}
+
+	getAllPosts() : void {
+		this.postService.getAllPosts()
+			.subscribe(posts => this.posts = posts);
+	}
+}
