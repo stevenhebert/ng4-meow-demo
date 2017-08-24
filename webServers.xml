@@ -66,7 +66,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="e6bc8ca0-38ef-4190-a91e-786f751c5b83" name="ng4-meow-demo" url="https://bootcamp-coders.cnm.edu/~shebert2/ng4-meow-demo">
-        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/ng4-meow-demo" accessType="SFTP" authAgent="true">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
