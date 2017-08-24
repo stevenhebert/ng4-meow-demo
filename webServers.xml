@@ -1,0 +1,78 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f7eb2979-ac6d-40b9-8e11-84350b8dab50" name="prodev" url="http://bootcamp-coders.cnm.edu/~shebert2/prodev">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/prodev" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d062f065-3dba-4504-bbcf-462f60f35b9e" name="pwp" url="https://bootcamp-coders.cnm.edu/~shebert2/pwp/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/pwp/" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3e7bf7ed-36bb-40f1-a44f-8378a65ed741" name="townhall" url="https://bootcamp-coders.cnm.edu/~shebert2/townhall/">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/townhall" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="226a38dd-da0b-4497-987a-d7e3cb986f1c" name="bootstrap-challenge" url="https://bootcamp-coders.cnm.edu/~shebert2/bootstrap-challenge">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/bootstrap-challenge" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e68761c4-04ea-442d-afae-a90150b9f1af" name="javascript-practice" url="https://bootcamp-coders.cnm.edu/~shebert2/javascript-practice">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/javascript-practice" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="81a75008-ece2-4714-b525-b72b1ce6105a" name="rellax" url="https://bootcamp-coders.cnm.edu/~shebert2/rellax">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/rellax" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="769c65bf-6d3f-42ae-bd17-fa8ec8b2fed6" name="angularFour" url="https://bootcamp-coders.cnm.edu/~shebert2/angularFour">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/angularFour" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="128055d9-54cc-4221-add9-b2475e127bbe" name="parallax" url="https://bootcamp-coders.cnm.edu/~shebert2/parallax">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/parallax" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e6bc8ca0-38ef-4190-a91e-786f751c5b83" name="ng4-meow-demo" url="https://bootcamp-coders.cnm.edu/~shebert2/ng4-meow-demo">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/shebert2/public_html/ng4-meow-demo" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

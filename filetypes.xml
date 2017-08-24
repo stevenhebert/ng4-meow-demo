@@ -1,0 +1,28 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="style" type="CSS" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="scripts" type="JavaScript" />
+      <mapping pattern="js" type="JavaScript" />
+      <mapping pattern="es_MX" type="PLAIN_TEXT" />
+      <mapping pattern=".bootstraprc" type="PLAIN_TEXT" />
+      <mapping pattern="tables.sql" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="validsignin.js" type="PLAIN_TEXT" />
+      <mapping pattern="navbar.php" type="PLAIN_TEXT" />
+      <mapping pattern="ValidateDate" type="PLAIN_TEXT" />
+      <mapping pattern="styles" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
